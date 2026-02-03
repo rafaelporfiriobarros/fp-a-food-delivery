@@ -1,0 +1,6 @@
+city,region,courier_cost_index
+São Paulo,Sudeste,1.2
+Rio de Janeiro,Sudeste,1.15
+Belo Horizonte,Sudeste,1.05
+Curitiba,Sul,1.0
+Porto Alegre,Sul,1.1

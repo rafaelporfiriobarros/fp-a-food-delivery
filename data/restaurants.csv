@@ -1,0 +1,201 @@
+restaurant_id,category,city,commission_rate,active_flag
+1,Saudável,Curitiba,0.28,True
+2,Saudável,Belo Horizonte,0.28,True
+3,Pizza,Porto Alegre,0.25,True
+4,Japonesa,Belo Horizonte,0.3,True
+5,Saudável,Belo Horizonte,0.28,True
+6,Japonesa,Curitiba,0.3,True
+7,Pizza,Porto Alegre,0.25,True
+8,Pizza,Curitiba,0.25,True
+9,Saudável,Curitiba,0.28,True
+10,Brasileira,São Paulo,0.23,True
+11,Saudável,Rio de Janeiro,0.28,True
+12,Hamburguer,Curitiba,0.27,True
+13,Japonesa,São Paulo,0.3,True
+14,Pizza,Belo Horizonte,0.25,True
+15,Brasileira,Curitiba,0.23,True
+16,Brasileira,Belo Horizonte,0.23,True
+17,Hamburguer,Curitiba,0.27,True
+18,Saudável,Belo Horizonte,0.28,True
+19,Saudável,Belo Horizonte,0.28,True
+20,Pizza,São Paulo,0.25,True
+21,Hamburguer,Curitiba,0.27,True
+22,Pizza,Curitiba,0.25,True
+23,Hamburguer,Rio de Janeiro,0.27,True
+24,Saudável,Rio de Janeiro,0.28,True
+25,Brasileira,Rio de Janeiro,0.23,True
+26,Brasileira,Curitiba,0.23,True
+27,Saudável,Curitiba,0.28,True
+28,Hamburguer,Belo Horizonte,0.27,True
+29,Pizza,Curitiba,0.25,True
+30,Pizza,Curitiba,0.25,True
+31,Brasileira,Rio de Janeiro,0.23,True
+32,Pizza,Porto Alegre,0.25,True
+33,Brasileira,Rio de Janeiro,0.23,True
+34,Pizza,Rio de Janeiro,0.25,True
+35,Brasileira,Curitiba,0.23,True
+36,Saudável,São Paulo,0.28,True
+37,Pizza,Porto Alegre,0.25,True
+38,Pizza,Porto Alegre,0.25,True
+39,Brasileira,São Paulo,0.23,True
+40,Brasileira,Curitiba,0.23,True
+41,Hamburguer,Porto Alegre,0.27,True
+42,Saudável,Porto Alegre,0.28,True
+43,Hamburguer,São Paulo,0.27,True
+44,Hamburguer,São Paulo,0.27,True
+45,Japonesa,Curitiba,0.3,True
+46,Hamburguer,Belo Horizonte,0.27,True
+47,Japonesa,Belo Horizonte,0.3,True
+48,Japonesa,São Paulo,0.3,True
+49,Pizza,Porto Alegre,0.25,True
+50,Hamburguer,Rio de Janeiro,0.27,True
+51,Hamburguer,Curitiba,0.27,True
+52,Pizza,Curitiba,0.25,True
+53,Saudável,São Paulo,0.28,True
+54,Brasileira,Belo Horizonte,0.23,True
+55,Japonesa,Belo Horizonte,0.3,True
+56,Japonesa,São Paulo,0.3,True
+57,Japonesa,Porto Alegre,0.3,True
+58,Saudável,São Paulo,0.28,True
+59,Japonesa,Rio de Janeiro,0.3,True
+60,Pizza,São Paulo,0.25,True
+61,Brasileira,Rio de Janeiro,0.23,True
+62,Japonesa,Porto Alegre,0.3,True
+63,Brasileira,São Paulo,0.23,True
+64,Brasileira,Porto Alegre,0.23,True
+65,Saudável,Porto Alegre,0.28,True
+66,Saudável,Belo Horizonte,0.28,True
+67,Saudável,Curitiba,0.28,True
+68,Japonesa,Belo Horizonte,0.3,True
+69,Pizza,Curitiba,0.25,True
+70,Saudável,Rio de Janeiro,0.28,True
+71,Saudável,São Paulo,0.28,True
+72,Brasileira,Curitiba,0.23,True
+73,Brasileira,Curitiba,0.23,True
+74,Japonesa,Curitiba,0.3,True
+75,Brasileira,Rio de Janeiro,0.23,True
+76,Hamburguer,São Paulo,0.27,True
+77,Hamburguer,São Paulo,0.27,True
+78,Hamburguer,Belo Horizonte,0.27,True
+79,Saudável,Curitiba,0.28,True
+80,Japonesa,São Paulo,0.3,True
+81,Hamburguer,Belo Horizonte,0.27,True
+82,Hamburguer,Porto Alegre,0.27,True
+83,Pizza,Belo Horizonte,0.25,True
+84,Japonesa,Curitiba,0.3,True
+85,Brasileira,São Paulo,0.23,True
+86,Hamburguer,São Paulo,0.27,True
+87,Brasileira,Rio de Janeiro,0.23,True
+88,Pizza,Curitiba,0.25,True
+89,Hamburguer,Belo Horizonte,0.27,True
+90,Hamburguer,Porto Alegre,0.27,True
+91,Japonesa,São Paulo,0.3,True
+92,Pizza,São Paulo,0.25,True
+93,Brasileira,Rio de Janeiro,0.23,True
+94,Hamburguer,Porto Alegre,0.27,True
+95,Japonesa,São Paulo,0.3,True
+96,Saudável,Rio de Janeiro,0.28,True
+97,Pizza,Curitiba,0.25,True
+98,Japonesa,Curitiba,0.3,True
+99,Hamburguer,Belo Horizonte,0.27,True
+100,Brasileira,Porto Alegre,0.23,True
+101,Japonesa,Rio de Janeiro,0.3,True
+102,Hamburguer,São Paulo,0.27,True
+103,Japonesa,Curitiba,0.3,True
+104,Japonesa,Porto Alegre,0.3,True
+105,Brasileira,Curitiba,0.23,True
+106,Brasileira,Belo Horizonte,0.23,True
+107,Pizza,Belo Horizonte,0.25,True
+108,Japonesa,Belo Horizonte,0.3,True
+109,Brasileira,Curitiba,0.23,True
+110,Hamburguer,São Paulo,0.27,True
+111,Hamburguer,Rio de Janeiro,0.27,True
+112,Brasileira,Belo Horizonte,0.23,True
+113,Hamburguer,São Paulo,0.27,True
+114,Pizza,Rio de Janeiro,0.25,True
+115,Brasileira,Belo Horizonte,0.23,True
+116,Hamburguer,Rio de Janeiro,0.27,True
+117,Brasileira,Curitiba,0.23,True
+118,Pizza,São Paulo,0.25,True
+119,Brasileira,São Paulo,0.23,True
+120,Saudável,Porto Alegre,0.28,True
+121,Hamburguer,Belo Horizonte,0.27,True
+122,Japonesa,São Paulo,0.3,True
+123,Japonesa,Belo Horizonte,0.3,True
+124,Hamburguer,Curitiba,0.27,True
+125,Japonesa,Curitiba,0.3,True
+126,Brasileira,São Paulo,0.23,True
+127,Japonesa,Curitiba,0.3,True
+128,Japonesa,São Paulo,0.3,True
+129,Saudável,São Paulo,0.28,True
+130,Pizza,Rio de Janeiro,0.25,True
+131,Japonesa,Rio de Janeiro,0.3,True
+132,Hamburguer,Porto Alegre,0.27,True
+133,Hamburguer,Curitiba,0.27,True
+134,Hamburguer,Curitiba,0.27,True
+135,Brasileira,Porto Alegre,0.23,True
+136,Hamburguer,Belo Horizonte,0.27,True
+137,Brasileira,São Paulo,0.23,True
+138,Japonesa,Belo Horizonte,0.3,True
+139,Japonesa,Porto Alegre,0.3,True
+140,Japonesa,Belo Horizonte,0.3,True
+141,Saudável,Rio de Janeiro,0.28,True
+142,Brasileira,São Paulo,0.23,True
+143,Saudável,São Paulo,0.28,True
+144,Saudável,Curitiba,0.28,True
+145,Brasileira,Belo Horizonte,0.23,True
+146,Hamburguer,Belo Horizonte,0.27,True
+147,Brasileira,São Paulo,0.23,True
+148,Saudável,Curitiba,0.28,True
+149,Japonesa,Porto Alegre,0.3,True
+150,Hamburguer,Curitiba,0.27,True
+151,Saudável,Porto Alegre,0.28,True
+152,Saudável,São Paulo,0.28,True
+153,Brasileira,Belo Horizonte,0.23,True
+154,Brasileira,São Paulo,0.23,True
+155,Saudável,Porto Alegre,0.28,True
+156,Japonesa,São Paulo,0.3,True
+157,Hamburguer,Rio de Janeiro,0.27,True
+158,Pizza,Rio de Janeiro,0.25,True
+159,Pizza,Belo Horizonte,0.25,True
+160,Japonesa,Rio de Janeiro,0.3,True
+161,Pizza,Rio de Janeiro,0.25,True
+162,Hamburguer,Rio de Janeiro,0.27,True
+163,Hamburguer,São Paulo,0.27,True
+164,Saudável,Belo Horizonte,0.28,True
+165,Pizza,Rio de Janeiro,0.25,True
+166,Pizza,Belo Horizonte,0.25,True
+167,Saudável,São Paulo,0.28,True
+168,Pizza,Curitiba,0.25,True
+169,Brasileira,São Paulo,0.23,True
+170,Brasileira,Porto Alegre,0.23,True
+171,Brasileira,São Paulo,0.23,True
+172,Brasileira,Belo Horizonte,0.23,True
+173,Pizza,Rio de Janeiro,0.25,True
+174,Hamburguer,Belo Horizonte,0.27,True
+175,Saudável,Rio de Janeiro,0.28,True
+176,Pizza,Rio de Janeiro,0.25,True
+177,Brasileira,São Paulo,0.23,True
+178,Japonesa,Rio de Janeiro,0.3,True
+179,Saudável,Curitiba,0.28,True
+180,Saudável,São Paulo,0.28,True
+181,Brasileira,Curitiba,0.23,True
+182,Saudável,Curitiba,0.28,True
+183,Saudável,Curitiba,0.28,True
+184,Japonesa,Curitiba,0.3,True
+185,Saudável,Curitiba,0.28,True
+186,Brasileira,Rio de Janeiro,0.23,True
+187,Japonesa,Rio de Janeiro,0.3,True
+188,Japonesa,São Paulo,0.3,True
+189,Pizza,Curitiba,0.25,True
+190,Saudável,Rio de Janeiro,0.28,True
+191,Saudável,Rio de Janeiro,0.28,True
+192,Brasileira,São Paulo,0.23,True
+193,Hamburguer,Porto Alegre,0.27,True
+194,Pizza,Rio de Janeiro,0.25,True
+195,Pizza,São Paulo,0.25,True
+196,Saudável,São Paulo,0.28,True
+197,Hamburguer,Porto Alegre,0.27,True
+198,Saudável,Porto Alegre,0.28,True
+199,Japonesa,Porto Alegre,0.3,True
+200,Pizza,Curitiba,0.25,True
